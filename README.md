@@ -19,8 +19,11 @@ In this course, you will dive into various topics that will empower you to lever
 
 <p align="center">
 <img src="images/embeddings.png" width="250" height="300"> 
-<img src="images/vector_database_1.png" width="300" height="300">
-<img align="centre" src="images/vector_database_2.png" width="300" height="300">
+</p>
+
+<p align="center">
+<img src="images/vector_database_1.png" width="300" height="250">
+<img align="centre" src="images/vector_database_2.png" width="300" height="250">
 </p>
 
 5. **Agents**: Gain insights into the emerging development of LLMs as reasoning agents.
