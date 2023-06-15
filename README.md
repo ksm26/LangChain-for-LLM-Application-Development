@@ -8,6 +8,7 @@ In this course, you will dive into various topics that will empower you to lever
 1. **Models, Prompts and Parsers**: Discover how to call Language Models (LLMs), provide prompts, and parse the responses.
 2. **Memories for LLMs**: Learn how to employ memories to store conversations and manage limited context space effectively.
 3. **Chains**: Explore the creation of sequences of operations using LangChain.
+![Simple Sequential Chain](images/Simple_Sequential_Chain.png)
 4. **Question Answering over Documents**: Apply LLMs to your proprietary data and tailor them to meet specific use case requirements.
 5. **Agents**: Gain insights into the emerging development of LLMs as reasoning agents.
 
