@@ -2,6 +2,8 @@
 
 Welcome to the "LangChain for LLM Application Development" course! This one-hour course, instructed by Harrison Chase, the creator of the LangChain framework, along with Andrew Ng, will equip you with essential skills to enhance the use cases and capabilities of language models in application development.
 
+**LangChain**: [GitHub](https://github.com/hwchase17/langchain), [Documentation](https://python.langchain.com/en/latest/index.html)
+
 ## Course Summary
 In this course, you will dive into various topics that will empower you to leverage the LangChain framework effectively. Here's what you can expect to learn and experience:
 
