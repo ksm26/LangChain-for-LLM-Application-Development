@@ -9,7 +9,11 @@ In this course, you will dive into various topics that will empower you to lever
 2. **Memories for LLMs**: Learn how to employ memories to store conversations and manage limited context space effectively.
 3. **Chains**: Explore the creation of sequences of operations using LangChain.
 
-<img src="images/Simple_Sequential_Chain.png" width="350" height="250"> <img src="images/Sequential_Chain.png" width="450" height="250">
+<p align="center">
+<img src="images/Simple_Sequential_Chain.png" width="350" height="300"> <img src="images/Sequential_Chain.png" width="450" height="300">
+
+<img align="centre" src="images/Router_Chain.png" width="450" height="300">
+</p>
 
 4. **Question Answering over Documents**: Apply LLMs to your proprietary data and tailor them to meet specific use case requirements.
 5. **Agents**: Gain insights into the emerging development of LLMs as reasoning agents.
