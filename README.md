@@ -16,6 +16,13 @@ In this course, you will dive into various topics that will empower you to lever
 </p>
 
 4. **Question Answering over Documents**: Apply LLMs to your proprietary data and tailor them to meet specific use case requirements.
+
+<p align="center">
+<img src="images/embeddings.png" width="250" height="300"> 
+<img src="images/vector_database_1.png" width="300" height="300">
+<img align="centre" src="images/vector_database_2.png" width="300" height="300">
+</p>
+
 5. **Agents**: Gain insights into the emerging development of LLMs as reasoning agents.
 
 By the end of this course, you will have a solid foundation in using LangChain and will be equipped with a model that can serve as a starting point for developing your own applications using diffusion models.
