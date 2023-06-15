@@ -26,6 +26,11 @@ In this course, you will dive into various topics that will empower you to lever
 <img align="centre" src="images/vector_database_2.png" width="300" height="250">
 </p>
 
+<p align="center">
+<img src="images/stuffmethod.png" width="300" height="250">
+<img align="centre" src="images/additionalmethods.png" width="300" height="250">
+</p>
+
 5. **Agents**: Gain insights into the emerging development of LLMs as reasoning agents.
 
 By the end of this course, you will have a solid foundation in using LangChain and will be equipped with a model that can serve as a starting point for developing your own applications using diffusion models.
