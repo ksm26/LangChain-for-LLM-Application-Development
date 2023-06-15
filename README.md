@@ -10,7 +10,6 @@ In this course, you will dive into various topics that will empower you to lever
 3. **Chains**: Explore the creation of sequences of operations using LangChain.
 
 <p align="center">
-<img src="images/Simple_Sequential_Chain.png" width="350" height="300"> <img src="images/Sequential_Chain.png" width="450" height="300">
 
 <img align="centre" src="images/Router_Chain.png" width="450" height="300">
 </p>
