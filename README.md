@@ -38,9 +38,9 @@ In this course, you will dive into various topics that will empower you to lever
 By the end of this course, you will have a solid foundation in using LangChain and will be equipped with a model that can serve as a starting point for developing your own applications using diffusion models.
 
 ## Key Points
-- 🔑Learn LangChain directly from Harrison Chase, the creator of the framework.
-- 🤖Apply LLMs to your proprietary data and develop personalized assistants and specialized chatbots.
-- 💡Expand your utilization of LLMs through agents, chained calls, and memories.
+- 🔑 Learn LangChain directly from Harrison Chase, the creator of the framework.
+- 🤖 Apply LLMs to your proprietary data and develop personalized assistants and specialized chatbots.
+- 💡 Expand your utilization of LLMs through agents, chained calls, and memories.
 
 ## About the Instructors
 🌟**Harrison Chase** is Co-Founder and CEO at LangChain.
